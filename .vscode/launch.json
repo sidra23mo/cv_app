@@ -1,0 +1,32 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    
+    {
+      "name": "cv_app",
+      "request": "launch",
+      "type": "dart",
+      "args": [
+        "--dart-define=GEMINI_API_KEY=AIzaSyC6KOIp2IvJ5w5hlc1X7mREj7nwRmCmi4A"
+      ]
+    },
+    {
+      "name": "cv_app (profile mode)",
+      "request": "launch",
+      "type": "dart",
+      "flutterMode": "profile",
+      "args": [
+        "--dart-define=GEMINI_API_KEY=AIzaSyC6KOIp2IvJ5w5hlc1X7mREj7nwRmCmi4A"
+      ]
+    },
+    {
+      "name": "cv_app (release mode)",
+      "request": "launch",
+      "type": "dart",
+      "flutterMode": "release",
+      "args": [
+        "--dart-define=GEMINI_API_KEY=AIzaSyC6KOIp2IvJ5w5hlc1X7mREj7nwRmCmi4A"
+      ]
+    }
+  ]
+}

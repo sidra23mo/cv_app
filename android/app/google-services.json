@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "456669862081",
+    "project_id": "cvapp-fd0ac",
+    "storage_bucket": "cvapp-fd0ac.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:456669862081:android:b9d9082e2f73c81d0edc40",
+        "android_client_info": {
+          "package_name": "com.astra.cv_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "456669862081-hms9kgqt1tht649l251s711v0dhqbr0r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.astra.cv_app",
+            "certificate_hash": "305b523e13191fec65910856b3642430189b350c"
+          }
+        },
+        {
+          "client_id": "456669862081-ss5vbr1028mfk9vdalsu8cpt2oefgs4a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBU16D7PxXvzP7bzLSTwWbiaC1KwtDqE-k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "456669862081-ss5vbr1028mfk9vdalsu8cpt2oefgs4a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
